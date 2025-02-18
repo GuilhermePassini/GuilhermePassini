@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou Guilherme Passini</h1>
-<h3 align="center">Jovem curioso em programação, back-end/redes e cibersegurança.</h3>
+<h3 align="center">Jovem curioso em programação, IA, Machine Learning, back-end/redes e cibersegurança.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guilhermepassini&label=Profile%20views&color=0e75b6&style=flat" alt="guilhermepassini" /> </p>
 
